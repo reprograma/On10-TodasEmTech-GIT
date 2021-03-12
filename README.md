@@ -3,7 +3,7 @@
 
 [Slides da aula](https://docs.google.com/presentation/d/1fA7hVbZUbIbbhfi5xhPFIwE5PVaN1NWizv8E5QoBJ-0/edit?usp=sharing)  :sparkles:
 
-### links dos projetos
+### link do projeto 
 [Aqui será o link do projeto em sala quando eu subir no github.io]()
 
 
