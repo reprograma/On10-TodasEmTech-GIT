@@ -1,0 +1,37 @@
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+h2 {
+  text-align: center;
+  text-transform: uppercase;
+  color: plum;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: initial;
+}
+
+.container_prof {
+  display: flex;
+  justify-content: center;
+}
+
+.container_aluna {
+  margin: 20px;
+}
+
+.container_aluna a img {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+}
+
+.container_aluna p {
+  text-align: center;
+}
+
